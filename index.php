@@ -18,7 +18,7 @@ $f3->route('GET /', function() {
 //    echo '<h1>Dinner is served!</h1>';
 
     $view = new Template();
-    echo $view->render('views/home-page.html');
+    echo $view->render('views/home.html');
 
 });
 
