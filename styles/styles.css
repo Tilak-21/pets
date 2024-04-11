@@ -2,10 +2,17 @@ h1 {
     color: darkblue;
 }
 
-h2 {
-    border: 2px solid black;
+a {
+    background-color: #04AA6D;
+    color: blue;
+
+    display: block;
+    text-decoration: underline;
+
 }
+
 
 img {
     width: 50%;
+
 }
